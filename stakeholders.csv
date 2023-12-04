@@ -1,4 +1,12 @@
-Voornaam;Naam;Affiliatie;E-mail;Website;MijnKolom;
-AuteurVoornaam;AuteurNaam;AuteurAffiliatie;auteurvoornaam.auteurnaam@auteurdomein;https://auteurwebsiteurl;A;
-EditorVoornaam;EditorNaam;EditorAffiliatie;editorvoornaam.editornaam@editordomein;https://editorwebsiteurl;E;
-MedewerkerVoornaam;MedewerkerNaam;MedewerkerAffiliatie;medewerkervoornaam.medewerkernaam@medewerkerdomein;https://medewerkerwebsiteurl;C;
+Voornaam;Naam;Affiliatie;E-mail;Website;MijnKolom
+Ziggy;Vanlishout;Digitaal Vlaanderen;ziggy.vanlishout@vlaanderen.be;https://data.vlaanderen.be/id/organisatie/OVO002949;E
+Raf;Buyle;Digitaal Vlaanderen;raf.buyle@vlaanderen.be;https://data.vlaanderen.be/id/organisatie/OVO002949;E
+Veerle;Beyaert;Digitaal Vlaanderen;veerle.beyaert@vlaanderen.be;https://data.vlaanderen.be/id/organisatie/OVO002949;E
+Eveline;Vlassenroot;Digitaal Vlaanderen;eveline.vlassenroot@vlaanderen.be;https://data.vlaanderen.be/id/organisatie/OVO002949;E
+Liesbeth;Van der Haegen;Digitaal Vlaanderen;liesbeth.vanderhaegen@vlaanderen.be;https://data.vlaanderen.be/id/organisatie/OVO002949;E
+Laurens;Vercauteren;Digitaal Vlaanderen;laurens.vercauteren@vlaanderen.be;https://data.vlaanderen.be/id/organisatie/OVO002949;E
+Jitse;De Cock;Digitaal Vlaanderen;jitse.decock@vlaanderen.be;https://data.vlaanderen.be/id/organisatie/OVO002949;E
+Aline;Verbrugge;Digitaal Vlaanderen;aline.verbrugge@vlaanderen.be;https://data.vlaanderen.be/id/organisatie/OVO002949;E
+Geert;Thijs;Digitaal Vlaanderen;geert.thijs@vlaanderen.be;https://data.vlaanderen.be/id/organisatie/OVO002949;E
+Sarah;Blomme;Athumi;sarah.blomme@vlaanderen.be;https://data.vlaanderen.be/id/organisatie/OVO051320;A
+Renée;Eelbode;Athumi;renee.eelbode@vlaanderen.be;https://data.vlaanderen.be/id/organisatie/OVO051320;C
