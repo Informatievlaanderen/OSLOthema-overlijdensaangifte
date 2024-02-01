@@ -1,0 +1,17 @@
+[
+{
+  "name": "overlijdensaangifte-voc",
+  "type": "voc",
+  "eap": "OSLO_Overlijdensaangifte_AP_en_VOC.eap",
+  "diagram": "OSLO_Overlijdensaangifte",
+  "template": "overlijdensaangifte-voc.j2",
+  "title": "Vocabularium Overlijdensaangifte",
+  "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
+  "publication-date": "2024-02-01",
+  "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
+  "contributors-file": "stakeholders.csv",
+  "contributors-column": "MijnKolom",
+  "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-mijnThema/issues",
+  "standaardregisterurl": "https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/vocabularium-overlijdensaangifte.html"
+}
+]
