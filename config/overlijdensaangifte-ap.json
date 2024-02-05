@@ -4,7 +4,7 @@
   "type": "ap",
   "eap": "OSLO_Overlijdensaangifte_AP_en_VOC.eap",
   "diagram": "OSLO_Overlijdensaangifte",
-  "template": "OSLO_Overlijdensaangifte-ap.j2",
+  "template": "overlijdensaangifte-ap.j2",
   "title": "Applicatieprofiel Slimme Raadpleegomgeving",
   "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
   "publication-date": "2024-02-01",
