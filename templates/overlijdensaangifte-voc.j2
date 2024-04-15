@@ -1,9 +1,23 @@
 {% extends "voc2.j2" %}
 
 {% block summary %}
-<p>Vul hier een samenvatting van mijn vocabularium in.</p>
+<p>Dit Vocabularium heeft als doelstelling om de informatiestroom rond de digitalisering van de Overlijdensaangifte te standaardiseren. Dit Vocabularium werd ontwikkeld in kader van  <a href="https://www.vlaanderen.be/lokaal-bestuur/digitale-transformatie/gemeente-zonder-gemeentehuis/goedgekeurde-projecten/digitale-aangifte-overlijden-grootschalige-transformatie">Digitale Aangifte Overlijden</a>, een project binnen het programma Gemeente zonder Gemeentehuis. Het model probeert hierbij te voldoen aan de informatievereisten zoals gedefinieerd in de papieren modellen IIIC & D maar probeert ook los te komen van de beperkingen van een fysieke drager voor deze informatie.</p>
+
+<p>Het vocabularium herbruikt termen de volgende standaarden:</p>
+
+<ul>  
+  <li><a href="https://hl7.org/fhir/">FHIR</a></li>  
+  <li><a href="https://data.vlaanderen.be/standaarden/kandidaat-standaard/vocabularium-persoon-basis.html">OSLO-Persoon</a></li>  
+  <li><a href="https://data.vlaanderen.be/standaarden/erkende-standaard/vocabularium-dienst-transactiemodel.html">OSLO-Dienst Transactiemodel</a></li>  
+  <li><a href="https://semiceu.github.io/CCCEV/">CCCEV</a></li>  
+</ul>  
+
+<p>Een Persoon kan een Overlijden als Persoonsgebeurtenis hebben. Dit is gelinkt met de Overlijdenstoestand. Deze valt onder de algemenere noemer Medische Toestand die afgeleid kan worden uit een Medische Observatie. De Medische Observatie wordt uitgevoerd door een Arts en gedocumenteerd in een Medisch Verslag. Dit is dan weer een input en Bewijs dat nodig is voor de Publieke Dienstverlening rond een Overlijden. De Overlijdensafhandeling Dienst levert een Overlijdensafhandeling Document op zoals een overlijdensakte. Ook werd het concept Wilsbeschikking opgenomen in het model waarbij dit de Uitvaart en Stoffelijke Restverwerking zal bepalen. Termen die te maken hebben met Overlijden in brede zin werden opgenomen in het Vocabularium Overlijdensaangifte. Termen die in bredere zin met de gezondheid van een Persoon te maken hebben werden opgenomen in een specifieke uitbreiding op het Vocabularium Persoon onder de noemer Vocabularium Gezondheidstoestand Persoon.</p>
+
+<p>Gezien de statistische naverwerking die gebeurt werd er ook SociodemografischeKenmerken opgenomen. Ook werd er door de bijkomende informatienoden gedefinieerd binnen het Model IIID, informatie opgenomen rond Zwangerschap, Geboorte en de afgeleide informatie die hierbij komt kijken.</p>
+
+<p>Termen die te maken hebben met Overlijden in brede zin werden opgenomen in het Vocabularium Overlijdensaangifte. Termen die in bredere zin met de gezondheid van een Persoon te maken hebben werden opgenomen in een specifieke uitbreiding op het Vocabularium Persoon onder de noemer Vocabularium Gezondheidstoestand Persoon.</p>
 {% endblock %}
 
 {% block status %}
-<p>(Verwijder dit blok om een geautomatiseerde standaardparagraaf te laten verschijnen.)</p>
 {% endblock %}
