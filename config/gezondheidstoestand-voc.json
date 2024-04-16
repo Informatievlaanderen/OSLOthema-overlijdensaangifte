@@ -4,7 +4,7 @@
   "type": "voc",
   "eap": "OSLO_Overlijdensaangifte_AP_en_VOC.eap",
   "diagram": "OSLO_Overlijdensaangifte",
-  "template": "gezondheidstoestand-voc.j2",
+  "template": "gezondsheidstoestand-voc.j2",
   "title": "Vocabularium Gezondheidstoestand Persoon",
   "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
   "publication-date": "2024-04-11",
