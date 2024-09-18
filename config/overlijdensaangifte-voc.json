@@ -1,6 +1,6 @@
 [
 {
-  "name": "overlijdensaangifte-voc",
+  "name": "overlijdensaangifte",
   "type": "voc",
   "eap": "OSLO_Overlijdensaangifte_AP_en_VOC.eap",
   "diagram": "OSLO_Overlijdensaangifte",
