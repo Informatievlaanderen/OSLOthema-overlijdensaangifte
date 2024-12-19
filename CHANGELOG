@@ -1,3 +1,32 @@
-YYYY-MM--DD
-  - Mijn aanpassing1
-  - Mijn aanpassing2
+2024-12-19
+
+- Update range of attributes
+  * (Model:applicatieprofiel_Overlijdensaangifte:OSLO-Persoon:Persoonsgebeurtenis:plaats)
+  * (Model:applicatieprofiel_Overlijdensaangifte:OSLO-Persoon:Verblijfplaats:verblijfsadres)
+  * (Model:applicatieprofiel_Overlijdensaangifte:OSLO-Persoon:GeregistreerdPersoon:registratie)
+  * (Model:applicatieprofiel_Overlijdensaangifte:CCCEV:Bewijs:referentie)
+  * (Model:applicatieprofiel_Overlijdensaangifte:OSLO-Persoon:Verblijfplaats:type)
+  * (Model:applicatieprofiel_Overlijdensaangifte:OSLO-Dienst:PubliekeDienstverlening (Consumptie):alternatieveNaam)
+  * (Model:applicatieprofiel_Overlijdensaangifte:OSLO-Dienst:PubliekeDienstverlening (Consumptie):beschrijving)
+  * (Model:applicatieprofiel_Overlijdensaangifte:OSLO-Dienst:PubliekeDienstverlening (Consumptie):contactinfo)
+  * (Model:applicatieprofiel_Overlijdensaangifte:OSLO-Dienst:PubliekeDienstverlening (Consumptie):naam)
+  * (Model:applicatieprofiel_Overlijdensaangifte:OSLO-Dienst:PubliekeDienstverlening (Consumptie):ruimtelijkeDekking)
+  * (Model:applicatieprofiel_Overlijdensaangifte:OSLO-Dienst:PubliekeDienstverlening (Consumptie):taal)
+  * (Model:applicatieprofiel_Overlijdensaangifte:OSLO-Dienst:PubliekeDienstverlening (Consumptie):trefwoord)
+  * (Model:applicatieprofiel_Overlijdensaangifte:CCCEV:Bewijs:beschrijving)
+  * (Model:applicatieprofiel_Overlijdensaangifte:CCCEV:Bewijs:naam)
+  * (Model:applicatieprofiel_Overlijdensaangifte:CCCEV:Bewijs:taal)
+  * (Model:applicatieprofiel_Overlijdensaangifte:OSLO-Dienst:BewijsType)
+  * (Model:applicatieprofiel_Overlijdensaangifte:OSLO-Dienst:Output:beschrijving)
+  * (Model:applicatieprofiel_Overlijdensaangifte:OSLO-Dienst:Output:naam)
+  * (Model:applicatieprofiel_Overlijdensaangifte:OSLO-Dienst:Participatie:beschrijving)
+  * (Model:applicatieprofiel_Overlijdensaangifte:OSLO-Dienst:ParticipatieRol)
+  * (Model:applicatieprofiel_Overlijdensaangifte:OSLO_Overlijdensaangifte:Wilsbeschikking:ondertekening)
+  * (Model:applicatieprofiel_Overlijdensaangifte:OSLO_Overlijdensaangifte:Wilsbeschikking:ritueel)
+  * (Model:applicatieprofiel_Overlijdensaangifte:OSLO_Overlijdensaangifte:Doodsoorzaak:beschrijving)
+  * (Model:applicatieprofiel_Overlijdensaangifte:OSLO_Overlijdensaangifte:Overlijdenstoestand:beschrijving)
+  * (Model:applicatieprofiel_Overlijdensaangifte:OSLO-Persoon:Persoonsrelatie:omschrijving)
+  * (Model:applicatieprofiel_Overlijdensaangifte:OSLO-Organisatie:PubliekeOrganisatie:werkingsgebied)
+  * (Model:applicatieprofiel_Overlijdensaangifte:OSLO_Overlijdensaangifte:GeassocieerdeOorzaak:beschrijving)
+  * (Model:applicatieprofiel_Overlijdensaangifte:OSLO-Cultuurparticipatie:SociodemografischKenmerk:inkomensniveau)
+  * (Model:applicatieprofiel_Overlijdensaangifte:OSLO-Cultuurparticipatie:SociodemografischKenmerk:beroep)
