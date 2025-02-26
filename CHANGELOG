@@ -30,3 +30,14 @@
   * (Model:applicatieprofiel_Overlijdensaangifte:OSLO_Overlijdensaangifte:GeassocieerdeOorzaak:beschrijving)
   * (Model:applicatieprofiel_Overlijdensaangifte:OSLO-Cultuurparticipatie:SociodemografischKenmerk:inkomensniveau)
   * (Model:applicatieprofiel_Overlijdensaangifte:OSLO-Cultuurparticipatie:SociodemografischKenmerk:beroep)
+
+2025-02-26
+- Added OSLO-Kindfiche to this project due to overlapping vocabularies
+- Update range of attributes
+  * (Model:vocabularium_gezondheidstoestand:OSLO-Gezondheidstoestand:Aandoening:type).
+  * (Model:vocabularium_gezondheidstoestand:OSLO-Gezondheidstoestand:Allergeen:ernst).
+  * (Model:vocabularium_gezondheidstoestand:OSLO-Gezondheidstoestand:Allergeen:reactie).
+  * (Model:vocabularium_gezondheidstoestand:OSLO-Gezondheidstoestand:Allergeen:type).
+  * (Model:vocabularium_gezondheidstoestand:OSLO-Gezondheidstoestand:Beperking:type).
+  * (Model:vocabularium_gezondheidstoestand:OSLO-Gezondheidstoestand:Dieetvoorkeur:type).
+  * (Model:vocabularium_gezondheidstoestand:OSLO-Gezondheidstoestand:SpecifiekeBehoefte:dieetvoorkeur).
